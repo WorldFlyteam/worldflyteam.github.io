@@ -145,7 +145,7 @@ a:hover {
 }
 .b-header-logo_link {
   display: block;
-  background: url(/images/b-error-header-logo.svg) no-repeat;
+  background: url(/.../images/b-error-header-logo.svg) no-repeat;
   width: 150px;
   height: 40px;
 }
@@ -184,5 +184,5 @@ a:hover {
 .no-js .b-page .b-header .b-header-logo .b-header-logo_link,
 .i-ua-no-svg .b-page .b-header .b-header-logo .b-header-logo_link,
 .i-ua-no-inlinesvg .b-page .b-header .b-header-logo .b-header-logo_link {
-  background: url(/images/b-error-header-logo.png) no-repeat;
+  background: url(/.../images/b-error-header-logo.png) no-repeat;
 }
