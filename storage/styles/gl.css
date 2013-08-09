@@ -22,9 +22,11 @@
 .b-footer{
 	position: absolute;
 	bottom: 10px;
+	width:100%;
 
 }
 
 .b-footer-text{
 	text-align: center;
+	font-size: 12px/24px;
 }
