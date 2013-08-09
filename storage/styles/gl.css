@@ -18,3 +18,13 @@
 	line-height: 36px;
 	color: #444;
 }
+
+.b-footer{
+	position: absolute;
+	bottom: 10px;
+
+}
+
+.b-footer-text{
+	text-align: center;
+}
