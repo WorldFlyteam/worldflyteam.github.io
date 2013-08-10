@@ -22,6 +22,20 @@
 	font-weight: 300;
 }
 
+.b-content{
+	width: 100%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	display: inline-block;
+	padding: 1.3em;
+}
+
+.b-content-sect{
+	display: inline-block;
+	width: 100%;
+}
+
 .b-footer{
 	position: absolute;
 	bottom: 10px;
