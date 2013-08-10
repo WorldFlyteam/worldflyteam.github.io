@@ -22,7 +22,7 @@
 	font-weight: 300;
 }
 
-.b-content{
+/*.b-content{
 	width: 100%;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
@@ -34,7 +34,7 @@
 .b-content-sect{
 	display: inline-block;
 	padding: 0 1.3em;
-}
+}*/
 
 .b-footer{
 	position: absolute;
