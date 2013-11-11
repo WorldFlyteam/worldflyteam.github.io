@@ -131,6 +131,7 @@ table {
 html,
 body {
   font: 14px/28px 'Open Sans', sans-serif;
+  height: 100%;
 }
 a {
   color: #fae6f3;
