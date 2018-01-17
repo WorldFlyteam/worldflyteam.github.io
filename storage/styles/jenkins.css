@@ -20,7 +20,7 @@ body {
 }
 
 .login a {
-    color: #F05138 !important;
+    color: #fff !important;
 }
 
 #main-panel > ul:nth-child(8) > li > img {
@@ -33,7 +33,6 @@ body {
     height: 55px!important;
     padding-top: 15px;
     padding-left: 5px;
-    background: #ffffff;
     position: relative;
 }
 
@@ -51,7 +50,7 @@ body {
 }
 
 #breadcrumbs {
-    background: #F05138;
+    background: #4a4a4a;
     border-top: 1px solid #036;
     border-bottom: none!important;
     margin-bottom: 15px;
