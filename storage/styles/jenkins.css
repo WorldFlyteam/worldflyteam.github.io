@@ -354,7 +354,6 @@ li.item:hover {
     padding-left: 260px;
     margin-left: 10px!important;
     height: 100%!important;
-    float: right!important;
 }
 
 #main-panel table:last-of-type {
@@ -424,9 +423,6 @@ td.pane:first-of-type,td.pane:last-of-type,th.pane:first-of-type,tr.build-row>td
     background: inherit!important;
 }
 
-form {
-    clear: both;
-}
 
 .pane-header,.pane-header>a {
     color: #505050!important;
